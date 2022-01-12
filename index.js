@@ -1,4 +1,4 @@
-function getInputValue() {
+const getInputValue = (node) => {
   // Zaimplementuj zadanie zgodnie z wytycznymi
 };
 
